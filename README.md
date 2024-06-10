@@ -7,7 +7,7 @@ Software Enginner
 Software Engineer with 2 years of hands-on experience in developing scalable websites at Internet Thailand Public Co., Ltd. Teacher with 1 year of experience teaching computational science, design and technology, algorithms, and basic Python at Kaennakhon Witthayalai School.
 
 * 🌍  I'm based in Bangkok, Thailand
-* 🖥️  See my portfolio at [My Portfoilo](http://https://zermoser.github.io/)
+* 🖥️  See my portfolio at [My Portfoilo](https://zermoser.github.io/)
 
 ### Skills
 
