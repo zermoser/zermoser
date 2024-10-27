@@ -4,7 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Enginner
 -----------------
 
-Software Engineer with 2 years of hands-on experience in developing scalable websites at Internet Thailand Public Co., Ltd. Teacher with 1 year of experience teaching computational science, design and technology, algorithms, and basic Python at Kaennakhon Witthayalai School.
+Hello, my name is Kittipoj Naewthavorn. You can call me Mos. I work As a Full Stack Developer at Tong Hua Asset Management Co., Ltd., my primary goal is to deepen my expertise in building robust web applications, particularly in the finance sector. I aim to enhance my proficiency in both Front-End and Back-End technologies, focusing on React, TypeScript, and PostgreSQL, while exploring emerging technologies and best practices in software development.
+
+Software Engineer with 2 years of hands-on experience in developing scalable websites at Internet Thailand Public Co., Ltd.
+
+Teacher with 1 year of experience teaching computational science, design and technology, algorithms, and basic Python at Kaennakhon Witthayalai School.
 
 * 🌍  I'm based in Bangkok, Thailand
 * 🖥️  See my portfolio at [My Portfoilo](https://zermoser.github.io/)
