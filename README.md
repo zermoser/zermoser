@@ -1,10 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mos
 ===========================================================================================================================
 
-Software Enginner
+https://camo.githubusercontent.com/e3db864e6c4f3104590fb9dd9a2fc8a2c5fe29a15be2f29782475d7f74beec39/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d2f3f6c696e65733d49253230616d2532306125323046756c6c253230537461636b253230446576656c6f70657226666f6e743d46697261253230436f64652663656e7465723d747275652677696474683d343430266865696768743d343526636f6c6f723d253233376133346562267643656e7465723d747275652670617573653d313030302673697a653d3232
+
+**About Me**
 -----------------
 
 Hello, my name is Kittipoj Naewthavorn. You can call me Mos. I work As a Full Stack Developer at Tong Hua Asset Management Co., Ltd., my primary goal is to deepen my expertise in building robust web applications, particularly in the finance sector. I aim to enhance my proficiency in both Front-End and Back-End technologies, focusing on React, TypeScript, and PostgreSQL, while exploring emerging technologies and best practices in software development.
+
+https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Right_Side.gif
 
 Software Engineer with 2 years of hands-on experience in developing scalable websites at Internet Thailand Public Co., Ltd.
 
