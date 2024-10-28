@@ -1,6 +1,13 @@
-### About Me
+<h1 align="center">Hello there, I am Mos 👋</h1>
 
-Hello! I'm **Kittipoj Naewthavorn**, but you can call me **Mos**. I work as a **Full Stack Developer** at **Tong Hua Asset Management Co., Ltd.**, where my primary goal is to deepen my expertise in building robust web applications, particularly in the finance sector. I aim to enhance my proficiency in both Front-End and Back-End technologies, focusing on **React**, **TypeScript**, and **PostgreSQL**, while exploring emerging technologies and best practices in software development.
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=I%20am%20a%20Full%20Stack%20Developer&font=Fira%20Code&center=true&width=440&height=45&color=%237a34eb&vCenter=true&pause=1000&size=22" />
+  </a>
+</p>
+
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About me
+I work as a **Full Stack Developer** at **Tong Hua Asset Management Co., Ltd.**, where my primary goal is to deepen my expertise in building robust web applications, particularly in the finance sector. I aim to enhance my proficiency in both Front-End and Back-End technologies, focusing on **React**, **TypeScript**, and **PostgreSQL**, while exploring emerging technologies and best practices in software development.
 
 I have:
 
@@ -10,7 +17,7 @@ I have:
 * 🌍 I'm based in **Bangkok, Thailand**
 * 🖥️ Check out my portfolio: [My Portfolio](https://zermoser.github.io/)
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### Skills
 
@@ -37,7 +44,7 @@ I have:
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### Connect with Me
 
@@ -53,7 +60,7 @@ I have:
   </a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### ⚡ Fun fact:
 
