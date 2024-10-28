@@ -1,4 +1,4 @@
-# Hi there! 👋 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
+# Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 ## My name is Mos
 
 ---
@@ -62,16 +62,8 @@ I have:
 
 ---
 
-### 🌱 I’m currently learning:
-
-- **Cloud Technologies** (AWS, Azure)
-- **GraphQL**
-- **Microservices Architecture**
 
 ### ⚡ Fun fact:
 
 I love to teach and share knowledge about programming, so feel free to connect with me for discussions or collaboration!
 
----
-
-![Profile Animation](https://media.giphy.com/media/3o7aCTG5hxZtPZzNuM/giphy.gif)
