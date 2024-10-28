@@ -1,8 +1,3 @@
-# Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
-## My name is Mos
-
----
-
 ### About Me
 
 Hello! I'm **Kittipoj Naewthavorn**, but you can call me **Mos**. I work as a **Full Stack Developer** at **Tong Hua Asset Management Co., Ltd.**, where my primary goal is to deepen my expertise in building robust web applications, particularly in the finance sector. I aim to enhance my proficiency in both Front-End and Back-End technologies, focusing on **React**, **TypeScript**, and **PostgreSQL**, while exploring emerging technologies and best practices in software development.
