@@ -7,8 +7,6 @@
 
 Hello! I'm **Kittipoj Naewthavorn**, but you can call me **Mos**. I work as a **Full Stack Developer** at **Tong Hua Asset Management Co., Ltd.**, where my primary goal is to deepen my expertise in building robust web applications, particularly in the finance sector. I aim to enhance my proficiency in both Front-End and Back-End technologies, focusing on **React**, **TypeScript**, and **PostgreSQL**, while exploring emerging technologies and best practices in software development.
 
-![Right Side Animation](https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Right_Side.gif)
-
 I have:
 
 - 🌐 **2 years** of experience developing scalable websites at **Internet Thailand Public Co., Ltd.**
@@ -62,8 +60,7 @@ I have:
 
 ---
 
-
 ### ⚡ Fun fact:
 
-I love to teach and share knowledge about programming, so feel free to connect with me for discussions or collaboration!
+I love to teach and share knowledge about programming, so feel free to connect with me for discussions or collaboration! In my free time, I enjoy exploring new technologies, contributing to open source projects, and learning about the latest trends in software development.
 
