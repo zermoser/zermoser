@@ -49,9 +49,9 @@ I'm Mos, a Full Stack Developer specializing in building scalable, finance-focus
 
 ---
 
-### GitHub Stats
+### Language Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zermoser&show_icons=true&theme=radical" alt="Mos's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zermoser&layout=compact&theme=radical" alt="Mos's Top Languages" />
 </p>
 
 ### GitHub Streak
