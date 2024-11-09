@@ -17,8 +17,6 @@ I'm Mos, a Full Stack Developer specializing in building scalable, finance-focus
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
-
 ### Skills
 
 #### Frontend
@@ -46,8 +44,6 @@ I'm Mos, a Full Stack Developer specializing in building scalable, finance-focus
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
   <a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
 </p>
-
----
 
 ### Language Stats
 <p align="center">
