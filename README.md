@@ -15,7 +15,6 @@ I have:
 - 🎓 **1 year** of teaching experience in computational science, design, technology, algorithms, and basic Python at **Kaennakhon Witthayalai School**.
 
 * 🌍 I'm based in **Bangkok, Thailand**
-* 🖥️ Check out my portfolio: [My Portfolio](https://zermoser.github.io/)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
