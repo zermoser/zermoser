@@ -60,17 +60,3 @@ I'm Mos, a Full Stack Developer specializing in building scalable, finance-focus
 </p>
 
 ---
-
-### Connect with Me
-
-<p align="center">
-  <a href="https://www.github.com/zermoser" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/kittipoj-naewthavorn-274809312/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
-  </a>
-  <a href="https://www.youtube.com/@mostopic3815" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" />
-  </a>
-</p>
