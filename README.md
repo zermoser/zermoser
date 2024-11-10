@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Full%20Stack%20Developer;Passionate%20about%20Finance%20Tech&font=Fira%20Code&center=true&width=440&height=45&color=%237a34eb&vCenter=true&pause=1000&size=22" />
 </p>
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
+## <picture><img src="https://user-images.githubusercontent.com/74038190/216656949-4d98aa51-a60a-4dd1-b531-1b5745e18002.gif" width="50px"></picture> About Me
 I'm Mos, a Full Stack Developer specializing in building scalable, finance-focused web applications. My goal is to leverage my skills in **React**, **TypeScript**, and **PostgreSQL** to develop impactful solutions in the finance sector.
 
 - 🌍 Based in **Bangkok, Thailand**
