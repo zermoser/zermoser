@@ -1,9 +1,7 @@
 <h1 align="center">Hello there, I am Mos 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Full%20Stack%20Developer;Passionate%20about%20Finance%20Tech&font=Fira%20Code&center=true&width=440&height=45&color=%237a34eb&vCenter=true&pause=1000&size=22" />
-  </a>
 </p>
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
