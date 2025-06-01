@@ -9,21 +9,25 @@ I'm Mos, a Full Stack Developer passionate about building scalable, finance-orie
 
 ### 💼 Experience
 
-- 🏦 **Built external-facing web systems for health insurance agents and customers** at **Tokio Marine Life Insurance (Thailand) PCL.** ****
-  Stack: `React`, `Vue.js`, `Nuxt`, `C#`, `.NET`, `Microsoft SQL Server`, `Azure DevOps`, `IIS`, `NUnit`, `Playwright`
+- 🏦 **Built external-facing web systems for health insurance agents and customers**  
+  **Company:** Tokio Marine Life Insurance (Thailand) PCL.  
+  **Stack:** `React`, `Vue.js`, `Nuxt`, `C#`, `.NET`, `Microsoft SQL Server`, `Azure DevOps`, `IIS`, `NUnit`, `Playwright`
 
+- 📊 **Built interactive finance dashboards and managed complex datasets**  
+  **Company:** Tong Hua Asset Management Co., Ltd. *(6 months)*  
+  **Stack:** `React`, `Remix`, `Tailwind CSS`, `Supabase`, `PostgreSQL`
 
-- 📊 **Built interactive finance dashboards and managed complex datasets** at **Tong Hua Asset Management Co., Ltd.** *(6 months)*
-  Stack: `React`, `Remix`, `Tailwind CSS`, `Supabase`, `PostgreSQL`
+- 🌐 **Developed enterprise-scale systems**  
+  **Company:** Internet Thailand Public Co., Ltd. *(2 years)*  
+  **Stack:** `React`, `Vue`, `Next.js`, `Nuxt.js`, `Node.js`, `MySQL`
 
-- 🌐 **Developed enterprise-scale systems** for **Internet Thailand Public Co., Ltd.** *(2 years)*
-  Stack: `React`, `Vue`, `Next.js`, `Nuxt.js`, `Node.js`, `MySQL`
+- 👨‍🏫 **Taught computational science and Python programming**  
+  **Company:** Kaennakhon Witthayalai School *(1 year)*
 
-- 👨‍🏫 **Taught computational science and Python programming** at **Kaennakhon Witthayalai School** *(1 year)*
+- 📺 **Developed TV program and news management tools**  
+  **Company:** National Broadcasting Services of Thailand Khon Kaen *(4 months)*  
 
-- 📺 **Developed TV program and news management tools** at **National Broadcasting Services of Thailand Khon Kaen** *(4 months)*  
-
-- 🌍 Based in **Bangkok, Thailand**
+- 🌍 **Location:** Based in Bangkok, Thailand
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
