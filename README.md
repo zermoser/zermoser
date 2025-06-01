@@ -7,17 +7,21 @@
 ## <picture><img src="https://user-images.githubusercontent.com/74038190/216656949-4d98aa51-a60a-4dd1-b531-1b5745e18002.gif" width="50px"></picture> About Me
 I'm Mos, a Full Stack Developer passionate about building scalable, finance-oriented web applications. I leverage my expertise in **TypeScript**, **React**, **Vue**, **.NET**, and modern databases like **PostgreSQL** and **MSSQL** to deliver impactful, data-driven solutions in the financial sector.
 
-📊 Built interactive finance dashboards and managed complex datasets at
-Tong Hua Asset Management Co., Ltd. (6 months)
-💻 Stack: React, Remix, Tailwind CSS, Supabase, PostgreSQL
+### 💼 Experience
 
-🌐 Developed enterprise-scale systems for
-Internet Thailand Public Co., Ltd. (2 years)
-💻 Stack: React, Vue, Next.js, Nuxt.js, Node.js, MySQL
+- 📊 **Built interactive finance dashboards and managed complex datasets** at  
+  **Tong Hua Asset Management Co., Ltd.** *(6 months)*  
+  💻 Stack: `React`, `Remix`, `Tailwind CSS`, `Supabase`, `PostgreSQL`
 
-👨‍🏫 Taught computational science and Python programming (1 year)
+- 🌐 **Developed enterprise-scale systems** for  
+  **Internet Thailand Public Co., Ltd.** *(2 years)*  
+  💻 Stack: `React`, `Vue`, `Next.js`, `Nuxt.js`, `Node.js`, `MySQL`
 
-🌍 Based in Bangkok, Thailand
+- 👨‍🏫 **Taught computational science and Python programming** *(1 year)*
+
+- 🌍 Based in **Bangkok, Thailand**
+
+---
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
