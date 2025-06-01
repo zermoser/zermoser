@@ -10,15 +10,14 @@ I'm Mos, a Full Stack Developer passionate about building scalable, finance-orie
 ### 💼 Experience
 
 - 🏦 **Built external-facing web systems for health insurance agents and customers** at **Tokio Marine Life Insurance (Thailand) PCL.**
+-  Stack: `React`, `Vue.js`, `Nuxt`, `C#`, `.NET`, `Microsoft SQL Server`, `Azure DevOps`, `IIS`, `NUnit`, `Playwright`
 
-  Stack: `React`, `Vue.js`, `Nuxt`, `C#`, `.NET`, `Microsoft SQL Server`, `Azure DevOps`, `IIS`, `NUnit`, `Playwright`
 
+- 📊 **Built interactive finance dashboards and managed complex datasets** at **Tong Hua Asset Management Co., Ltd.** *(6 months)*
+- Stack: `React`, `Remix`, `Tailwind CSS`, `Supabase`, `PostgreSQL`
 
-- 📊 **Built interactive finance dashboards and managed complex datasets** at **Tong Hua Asset Management Co., Ltd.** *(6 months)*  
-  Stack: `React`, `Remix`, `Tailwind CSS`, `Supabase`, `PostgreSQL`
-
-- 🌐 **Developed enterprise-scale systems** for **Internet Thailand Public Co., Ltd.** *(2 years)*  
-  Stack: `React`, `Vue`, `Next.js`, `Nuxt.js`, `Node.js`, `MySQL`
+- 🌐 **Developed enterprise-scale systems** for **Internet Thailand Public Co., Ltd.** *(2 years)*
+- Stack: `React`, `Vue`, `Next.js`, `Nuxt.js`, `Node.js`, `MySQL`
 
 - 👨‍🏫 **Taught computational science and Python programming** at **Kaennakhon Witthayalai School** *(1 year)*
 
