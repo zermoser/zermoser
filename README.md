@@ -61,12 +61,6 @@ I'm Mos, a Full Stack Developer passionate about building scalable, finance-orie
   </a>
 </p>
 
-#### ✅ Automated Testing
-<p align="left">
-  <a href="https://learn.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-nunit" target="_blank"><img src="https://skillicons.dev/icons?i=nunit" width="36" height="36" alt="NUnit" /></a>
-  <a href="https://playwright.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=playwright" width="36" height="36" alt="Playwright" /></a>
-</p>
-
 ### 📊 Language Stats
 <p align="center">
   <picture>
