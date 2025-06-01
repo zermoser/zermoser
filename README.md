@@ -45,10 +45,10 @@ I'm Mos, a Full Stack Developer passionate about building scalable, finance-orie
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="36" height="36" alt="PostgreSQL" /></a>
   <a href="https://supabase.io/" target="_blank"><img src="https://skillicons.dev/icons?i=supabase&theme=dark" width="36" height="36" alt="Supabase" /></a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-      <span style="display: inline-flex; align-items: center; justify-content: center; width: 36px; height: 36px; background-color: #1e1e1e; border-radius: 8px; box-shadow: 0 0 0 1px #333; padding: 4px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" 
-             width="24" height="24" alt="MSSQL" />
-      </span>
+  <span style="display: inline-flex; align-items: center; justify-content: center; width: 36px; height: 36px; background-color: #1f1f1f; border-radius: 10px; padding: 4px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" 
+         width="20" height="20" alt="MSSQL" />
+  </span>
   </a>
 </p>
 
