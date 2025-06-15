@@ -69,8 +69,8 @@ I'm Mos, a Full Stack Developer passionate about building scalable, finance-orie
 ### 📊 Language Stats
 <p align="center">
   <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zermoser&layout=compact&theme=default&langs_count=10&include_forks=true&cache_seconds=60" media="(prefers-color-scheme: light)">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zermoser&layout=compact&theme=radical&langs_count=10&include_forks=true&cache_seconds=60" alt="Mos's Top Languages" />
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zermoser&layout=compact&theme=default&langs_count=10&include_forks=tru" media="(prefers-color-scheme: light)">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zermoser&layout=compact&theme=radical&langs_count=10&include_forks=true" alt="Mos's Top Languages" />
   </picture>
 </p>
 
