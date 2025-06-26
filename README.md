@@ -60,7 +60,6 @@ I'm Mos, a Full Stack Developer passionate about building scalable, finance-orie
   <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=dotnet&theme=dark" width="36" height="36" alt=".NET" /></a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://skillicons.dev/icons?i=cs&theme=dark" width="36" height="36" alt="C#" /></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="36" height="36" alt="MySQL" /></a>
-  <a href="https://mariadb.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="36" height="36" alt="MariaDB" /></a>
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="36" height="36" alt="PostgreSQL" /></a>
   <a href="https://supabase.io/" target="_blank"><img src="https://skillicons.dev/icons?i=supabase&theme=dark" width="36" height="36" alt="Supabase" /></a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
