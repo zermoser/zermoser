@@ -19,7 +19,7 @@ I'm Mos, a Full Stack Developer passionate about building scalable, finance-orie
 
 - 🌐 **Developed enterprise-scale systems**  
   **Company:** Internet Thailand Public Co., Ltd. *(2 years)*  
-  **Stack:** `React`, `Vue`, `Next.js`, `Nuxt.js`, `Node.js`, `MySQL`
+  **Stack:** `React`, `Vue`, `Next.js`, `Nuxt.js`, `Node.js`, `MySQL`, `MariaDB`
 
 - 👨‍🏫 **Taught computational science and Python programming**  
   **Company:** Kaennakhon Witthayalai School *(1 year)*
