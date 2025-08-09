@@ -11,7 +11,7 @@ I'm Mos, a Full Stack Developer passionate about building scalable, finance-orie
 
 - 🏦 **Built external-facing web systems for health insurance agents and customers**  
   **Company:** Tokio Marine Life Insurance (Thailand) PCL.  
-  **Stack:** `React`, `Vue.js`, `Nuxt`, `C#`, `.NET`, `Microsoft SQL Server`, `Azure DevOps`, `IIS`, `NUnit`, `Playwright`
+  **Stack:** `React`, `Vue.js`, `Nuxt`, `React Native`, `C#`, `.NET`, `Microsoft SQL Server`, `Azure DevOps`, `IIS`, `NUnit`, `Playwright`
 
 - 📊 **Built interactive finance dashboards and managed complex datasets**  
   **Company:** Tong Hua Asset Management Co., Ltd. *(6 months)*  
