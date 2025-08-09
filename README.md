@@ -5,7 +5,7 @@
 </p>
 
 ## <picture><img src="https://user-images.githubusercontent.com/74038190/216656949-4d98aa51-a60a-4dd1-b531-1b5745e18002.gif" width="50px"></picture> About Me  
-I'm Mos, a Full Stack Developer passionate about building scalable, finance-oriented web applications. I leverage my expertise in **TypeScript**, **React**, **Vue**, **C#**, **.NET**, and modern databases like **PostgreSQL** and **Microsoft SQL Server** to deliver impactful, data-driven solutions in the financial sector. I also run my own insurance sales website at [www.มอสมีประกัน.com](https://www.xn--12c2cexan0cxa5al3b.com/) for clients seeking personalized coverage.
+I'm Mos, a Full Stack Developer passionate about building scalable, finance-oriented web and mobile applications. I leverage my expertise in TypeScript, React, Vue, React Native, C#, .NET, and modern databases like PostgreSQL and Microsoft SQL Server to deliver impactful, data-driven solutions in the financial sector. I also run my own insurance sales website at www.มอสมีประกัน.com for clients seeking personalized coverage.
 
 ### 💼 Experience
 
